@@ -62,5 +62,14 @@ Entender esses tipos de listas é crucial para desenvolver plataformas como o Sp
 
 <br>
 
+📝 Integrantes:<br>
+* Giovana Fernanda
+* Keila Jadiely
+* Kaylane Sophia
+* Miqueias Furtado
+* Thiago André
+
+<br>
+
 Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)
 
