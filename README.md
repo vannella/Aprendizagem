@@ -4,7 +4,7 @@
 <br>
 
 ### **📚 Indíce**<br>
-* [Lista]()
+* [Lista](https://github.com/GiovanaMerces/Aprendizagem/tree/main/Lista/Tipo1)
 
 <br>
 
