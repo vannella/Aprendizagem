@@ -3,7 +3,7 @@
 
 <br>
 
-### **📚 Indíces**<br>
+### **📚 Indíce**<br>
 * [Lista]()
 
 <br>
