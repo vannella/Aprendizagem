@@ -1,8 +1,8 @@
 # Básico de ML
 Veja aqui o slide sobre [vizualização de gráficos](https://drive.google.com/file/d/1vJjDFZVQP8ld7-ZhM_cupR4dcqLJfyDn/view?usp=sharing)
 
-> Foi utilizado para uma apresentação oral e não contém texto para leitura.
-> 
+> ⚠ Foi utilizado para uma apresentação oral em formato pptx e não contém texto para leitura.
+
 <br>
 
 Este slide foi criado para introduzir o Machine Learning, focando em um modelo real de uso de inteligência artificial para detecção de fraudes, abordando métodos e visualizações.<br>
