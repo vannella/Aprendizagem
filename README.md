@@ -1,11 +1,13 @@
 # Aprendizagem
 📖 Documentação geral
 
-**Indíces**
-* Lista
+<br>
+
+### **📚 Indíces**<br>
+* [Lista]()
 
 <br>
 
 > Gostou?
 
-👉🏻Fique a vontade para Contribuir novas Documentações.
+👉🏻Fique à vontade para Contribuir novas Documentações.
