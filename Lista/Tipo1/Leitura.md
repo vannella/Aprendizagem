@@ -68,7 +68,8 @@ Entender esses tipos de listas é crucial para desenvolver plataformas como o Sp
 * Kaylane Sophia
 * Miqueias Furtado
 * Thiago André
-
+* Tiago Da Silva
+  
 <br>
 
 Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)
