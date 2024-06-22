@@ -4,8 +4,8 @@
 <br>
 
 ### **📚 Indíce**<br>
-* [Lista](https://github.com/GiovanaMerces/Aprendizagem/tree/main/Lista/Tipo1)
-
+* [Lista](https://github.com/GiovanaMerces/Aprendizagem/tree/main/Lista/Tipo1)<br>
+* [Design Patterns]()
 <br>
 
 > Gostou?
