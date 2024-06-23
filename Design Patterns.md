@@ -5,7 +5,7 @@
 
 > A principal referência para este estudo é o livro amarelo: *Padrões de Projeto – Engenharia de Software Moderna.*<br>
 
-> Este slide utilizando exemplos do site [Padrôes de Projeto/Design Patterns](https://refactoring.guru/pt-br/design-patterns)<br>
+> Este slide utiliza exemplos do site [Padrôes de Projeto/Design Patterns](https://refactoring.guru/pt-br/design-patterns)<br>
 
 ---
 
