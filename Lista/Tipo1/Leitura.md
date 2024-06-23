@@ -16,9 +16,9 @@ As estruturas de dados são essenciais na computação para organizar e armazena
 **Desvantagens:** Para encontrar um elemento, é necessário percorrer a lista desde o início, já que não há acesso direto por índice.<br>
 
 ~~~ C
-struct lista {
+struct No {
     int num;
-    struct lista* prox;
+    struct No* prox;
 };
 ~~~~
 
@@ -28,10 +28,10 @@ struct lista {
 **Desvantagens:** Usa mais memória devido aos ponteiros extras.<br>
 
 ~~~ C
-struct lista {
+struct No {
     int num;
-    struct lista* prox;
-    struct lista* ant;
+    struct No* prox;
+    struct No* ant;
 };
 ~~~~
 
@@ -41,9 +41,9 @@ struct lista {
 **Desvantagens:** Pode ser mais complicada de implementar, e há risco de loops infinitos se não for manipulada corretamente.<br>
 
 ~~~ C
-struct lista {
+struct No {
     int num;
-    struct lista* prox;
+    struct No* prox;
 };
 
 // Na inicialização, garantir que o último nó aponte para o primeiro
