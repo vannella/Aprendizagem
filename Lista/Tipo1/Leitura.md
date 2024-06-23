@@ -18,7 +18,7 @@ As estruturas de dados são essenciais na computação para organizar e armazena
 ~~~ C
 struct lista {
     int num;
-    struct Node* prox;
+    struct lista* prox;
 };
 ~~~~
 
@@ -30,8 +30,8 @@ struct lista {
 ~~~ C
 struct lista {
     int num;
-    struct Node* prox;
-    struct Node* ant;
+    struct lista* prox;
+    struct lista* ant;
 };
 ~~~~
 
