@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+// #include <stdlib.h>: Inclui a biblioteca padrão para usar funções malloc e free.
 
 // Definição da estrutura do nó
 typedef struct No {
