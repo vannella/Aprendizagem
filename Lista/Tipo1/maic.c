@@ -1,117 +1,116 @@
-// Lista Duplamnete Encadeada e Ordenada
+// Lista Duplamente Encadeada e Ordenada
 
 #include <stdio.h>
 #include <stdlib.h>
 
 // Definição da estrutura do nó
-typedef struct Node {
+typedef struct No {
     int num;
-    struct Node *prox;
-    struct Node *ant;
-} Node;
+    struct No *prox;
+    struct No *ant;
+} No;
 
 // Função principal para testar as operações
 int main() {
-    Node *head = NULL;
+    No *cabeca = NULL;
 
     // Inserção de elementos na lista
-    int values[] = {10, 20, 15, 5};
+    int valores[] = {10, 20, 15, 5};
     for (int i = 0; i < 4; i++) {
-        Node *newNode = (Node *)malloc(sizeof(Node));
-        newNode->num = values[i];
-        newNode->prox = NULL;
-        newNode->ant = NULL;
+        No *novoNo = (No *)malloc(sizeof(No));
+        novoNo->num = valores[i];
+        novoNo->prox = NULL;
+        novoNo->ant = NULL;
 
-        if (head == NULL) {
-            head = newNode;
+        if (cabeca == NULL) {
+            cabeca = novoNo;
         } else {
-            Node *current = head;
-            Node *previous = NULL;
-            while (current != NULL && current->num < values[i]) {
-                previous = current;
-                current = current->prox;
+            No *atual = cabeca;
+            No *anterior = NULL;
+            while (atual != NULL && atual->num < valores[i]) {
+                anterior = atual;
+                atual = atual->prox;
             }
-            newNode->prox = current;
-            newNode->ant = previous;
-            if (previous != NULL) {
-                previous->prox = newNode;
+            novoNo->prox = atual;
+            novoNo->ant = anterior;
+            if (anterior != NULL) {
+                anterior->prox = novoNo;
             } else {
-                head = newNode;
+                cabeca = novoNo;
             }
-            if (current != NULL) {
-                current->ant = newNode;
+            if (atual != NULL) {
+                atual->ant = novoNo;
             }
         }
     }
 
     // Impressão da lista do início ao fim
     printf("Lista do início ao fim: ");
-    Node *current = head;
-    while (current != NULL) {
-        printf("%d ", current->num);
-        current = current->prox;
+    No *atual = cabeca;
+    while (atual != NULL) {
+        printf("%d ", atual->num);
+        atual = atual->prox;
     }
     printf("\n");
 
     // Impressão da lista do fim ao início
     printf("Lista do fim ao início: ");
-    current = head;
-    if (current != NULL) {
-        while (current->prox != NULL) {
-            current = current->prox;
+    atual = cabeca;
+    if (atual != NULL) {
+        while (atual->prox != NULL) {
+            atual = atual->prox;
         }
-        while (current != NULL) {
-            printf("%d ", current->num);
-            current = current->ant;
+        while (atual != NULL) {
+            printf("%d ", atual->num);
+            atual = atual->ant;
         }
     }
     printf("\n");
 
     // Remoção de um elemento específico
-    int valueToRemove = 15;
-    current = head;
-    while (current != NULL && current->num != valueToRemove) {
-        current = current->prox;
+    int valorParaRemover = 15;
+    atual = cabeca;
+    while (atual != NULL && atual->num != valorParaRemover) {
+        atual = atual->prox;
     }
-    if (current != NULL) {
-        if (current->ant != NULL) {
-            current->ant->prox = current->prox;
+    if (atual != NULL) {
+        if (atual->ant != NULL) {
+            atual->ant->prox = atual->prox;
         } else {
-            head = current->prox;
+            cabeca = atual->prox;
         }
-        if (current->prox != NULL) {
-            current->prox->ant = current->ant;
+        if (atual->prox != NULL) {
+            atual->prox->ant = atual->ant;
         }
-        free(current);
+        free(atual);
     }
 
     // Impressão da lista após remoção
-    printf("Lista após remover %d: ", valueToRemove);
-    current = head;
-    while (current != NULL) {
-        printf("%d ", current->num);
-        current = current->prox;
+    printf("Lista após remover %d: ", valorParaRemover);
+    atual = cabeca;
+    while (atual != NULL) {
+        printf("%d ", atual->num);
+        atual = atual->prox;
     }
     printf("\n");
 
     // Esvaziamento da lista
-    current = head;
-    while (current != NULL) {
-        Node *next = current->prox;
-        free(current);
-        current = next;
+    atual = cabeca;
+    while (atual != NULL) {
+        No *proximo = atual->prox;
+        free(atual);
+        atual = proximo;
     }
-    head = NULL;
+    cabeca = NULL;
 
     // Impressão da lista após esvaziamento
     printf("Lista após esvaziar: ");
-    current = head;
-    while (current != NULL) {
-        printf("%d ", current->num);
-        current = current->prox;
+    atual = cabeca;
+    while (atual != NULL) {
+        printf("%d ", atual->num);
+        atual = atual->prox;
     }
     printf("\n");
 
     return 0;
 }
-
