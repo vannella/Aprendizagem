@@ -11,4 +11,4 @@
 
 > Gostou?
 
-👉🏻Fique à vontade para Contribuir novas Documentações.
+👉🏻Fique à vontade para **Contribuir** novas Documentações.
