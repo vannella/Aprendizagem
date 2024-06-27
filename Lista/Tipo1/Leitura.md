@@ -1,4 +1,8 @@
-## Lista Duplamente Encadeada e Ordenada
+<div align="center">
+<h1>Lista Duplamente Encadeada e Ordenada</h1>
+</div>
+
+<br>
 
 Todas as referências e leituras sobre os tipos de listas estão neste livro: *Estruturas_de_Dados_-_Algoritmos_Anlise_de_Complexidade_em_Java_e_C_C_Ana_F*
 
@@ -8,9 +12,15 @@ Todas as referências e leituras sobre os tipos de listas estão neste livro: *E
 
 ---
 
-# Estruturas de Dados: Tipos de Listas<br>
+<br>
+
+<div align="center">
+<h1>Estruturas de Dados: Tipos de Listas</h1>
+</div>
 
 As estruturas de dados são essenciais na computação para organizar e armazenar dados de maneira eficiente. As listas são um tipo fundamental de estrutura de dados, com várias variações que servem diferentes propósitos. A seguir, discutimos três tipos comuns de listas e suas características:
+
+<br>
 
 ### 1. **Lista Simplesmente Encadeada:**<br>
 **Descrição:** Uma série de nós, onde cada nó contém um valor e um ponteiro para o próximo nó. Não há ponteiros para o nó anterior.<br>
@@ -24,6 +34,8 @@ struct No {
 };
 ~~~~
 
+<br>
+
 ### 2. **Lista Duplamente Encadeada e Ordenada:**<br>
 **Descrição:** Cada nó tem ponteiros para o próximo e para o nó anterior, e os elementos são mantidos em ordem.<br>
 **Vantagens:** Pode ser percorrida em ambas as direções (frente e verso), e é fácil inserir e remover elementos em qualquer posição se você souber onde está o nó.<br>
@@ -36,6 +48,8 @@ struct No {
     struct No* ant;
 };
 ~~~~
+
+<br>
 
 ### 3. **Lista Circular:**<br>
 **Descrição:** Similar à lista encadeada, mas o último nó aponta para o primeiro nó, formando um ciclo.<br>
@@ -55,6 +69,8 @@ struct No {
 
 ---
 
+<br>
+
 ### 🎵 **Aplicações em Plataformas como Spotify**<br>
 Entender esses tipos de listas é crucial para desenvolver plataformas como o Spotify:<br>
 
@@ -64,14 +80,12 @@ Entender esses tipos de listas é crucial para desenvolver plataformas como o Sp
 
 <br>
 
-📝 Integrantes:<br>
-* Giovana Fernanda
-* Keila Jadiely
-* Kaylane Sophia
-* Miqueias Furtado
-* Thiago André
-* Tiago Da Silva
-  
+|   **📝 Leitura**         |    💻 **Código**          |                              
+|--------------------------|----------------------------|
+|    Giovana Fernanda      |   Kaylane Sophia           | 
+|    Tiago Da Silva        |   Thiago André             | 
+|    Keila Jadiely         |   Miqueias Furtado         | 
+
 <br>
 
 Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)
