@@ -44,4 +44,4 @@
 * Thiago Andre: <mark>Fábrica</mark> <br>
 * Vinicius Lee: <mark>Proxy </mark> <br>
 
-Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)
+Autora: [Giovana Fernanda](https://github.com/Vannella)
