@@ -17,8 +17,6 @@
 
 👉🏻Fique à vontade para **Contribuir** novas Documentações.<br>
 
-<br>
-
 Se você encontrou um bug ou tem uma sugestão de melhoria, por favor, abra um **ISSUE** em nosso repositório. 
 
 
