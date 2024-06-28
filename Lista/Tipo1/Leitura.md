@@ -88,5 +88,5 @@ Entender esses tipos de listas é crucial para desenvolver plataformas como o Sp
 
 <br>
 
-Autora: [Giovana Fernanda](https://github.com/Vannella)
+Autora: [Giovana Fernanda](https://github.com/vannella)
 
