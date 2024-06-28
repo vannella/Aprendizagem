@@ -80,7 +80,7 @@ Entender esses tipos de listas é crucial para desenvolver plataformas como o Sp
 
 <br>
 
-|   **📝 Leitura**         |    💻 **Código**          |                              
+|   **📝 Leitura/Escrita**         |    💻 **Código**          |                              
 |--------------------------|----------------------------|
 |    Giovana Fernanda      |   Kaylane Sophia           | 
 |    Tiago Da Silva        |   Thiago André             | 
