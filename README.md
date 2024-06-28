@@ -4,8 +4,8 @@
 <br>
 
 ### **📚 Indíce**<br>
-* [Lista](https://github.com/Vannella/Aprendizagem/blob/main/Lista/Tipo1/Leitura.md)<br>
-* [Design Patterns](https://github.com/Vannella/Aprendizagem/blob/main/Design%20Patterns.md)<br>
+* [Lista](https://github.com/vannella/Aprendizagem/blob/main/Indices/Lista/Tipo1/Leitura.C.md)<br>
+* [Design Patterns](https://github.com/vannella/Aprendizagem/blob/main/Indices/Design%20Patterns.md)<br>
 
 <br>
 <br>
