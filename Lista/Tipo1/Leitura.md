@@ -8,7 +8,7 @@ Todas as referências e leituras sobre os tipos de listas estão neste livro: *E
 
 👉🏻 Veja aqui o [Slide - PDF](https://drive.google.com/file/d/13MPjl0GeVP3AaXBosU6h6-Of49bBiw2t/view?usp=sharing)<br>
 
-👾 Veja aqui o [Código em C](https://github.com/GiovanaMerces/Aprendizagem/blob/main/Lista/Tipo1/maic.c)<br>
+👾 Veja aqui o [Código em C](https://github.com/Vannella/Aprendizagem/blob/main/Lista/Tipo1/maic.c)<br>
 
 ---
 
@@ -88,5 +88,5 @@ Entender esses tipos de listas é crucial para desenvolver plataformas como o Sp
 
 <br>
 
-Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)
+Autora: [Giovana Fernanda](https://github.com/Vannella)
 
