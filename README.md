@@ -13,10 +13,12 @@
 
 ---
 
-> Gostou?
+<br>
+
+> Gostou do repositório? Marque uma ⭐ para salvar e receber mais aprendizagens!
 
 👉🏻Fique à vontade para **Contribuir** novas Documentações.<br>
 
-Se você encontrou um bug ou tem uma sugestão de melhoria, por favor, abra um **ISSUE** em nosso repositório. 
+🔍Se você encontrou um bug ou tem uma sugestão de melhoria, por favor, abra um **ISSUE** em nosso repositório. 
 
 
