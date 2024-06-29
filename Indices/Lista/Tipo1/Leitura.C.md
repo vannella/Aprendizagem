@@ -8,7 +8,7 @@ Todas as referências e leituras sobre os tipos de listas estão neste livro: *E
 
 👉🏻 Veja aqui o [Slide - PDF](https://drive.google.com/file/d/13MPjl0GeVP3AaXBosU6h6-Of49bBiw2t/view?usp=sharing)<br>
 
-👾 Veja aqui o [Código em C](https://github.com/Vannella/Aprendizagem/blob/main/Lista/Tipo1/maic.c)<br>
+👾 Veja aqui o [Código em C](https://github.com/vannella/Aprendizagem/blob/main/Indices/Lista/Tipo1/main.c)<br>
 
 ---
 
