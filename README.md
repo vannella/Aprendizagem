@@ -1,5 +1,5 @@
 # Aprendizagem
-📖 A proposta deste repositório é fornecer uma documentação sobre programação e outras áreas da tecnologia, compartilhando ideias e leituras, além de utilizar slides criativos para tornar o conteúdo acessível e útil para todos os interessados na área.
+📖 A proposta deste repositório é fornecer uma documentação sobre programação e outras áreas da tecnologia, compartilhando ideias, leituras, recursos que podem ajudar iniciantes. além de utilizar slides criativos para tornar o conteúdo acessível e útil para todos os interessados na área.
 
 <br>
 
