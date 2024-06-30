@@ -15,10 +15,11 @@
 
 <br>
 
-> Gostou do repositório? Marque uma ⭐ para salvar e receber mais aprendizagens!
+Se você se interessou, sinta-se à vontade para **participar da nossa discussão neste repositório.** Estamos ansiosos para ouvir suas ideias e colaborar no desenvolvimento desta iniciativa.
 
 👉🏻Fique à vontade para **Contribuir** novas Documentações.<br>
 
 🔍Se você encontrou um bug ou tem uma sugestão de melhoria, por favor, abra um **ISSUE** em nosso repositório. 
 
+> Gostou do repositório? Marque uma ⭐ para salvar e receber mais aprendizagens!
 
