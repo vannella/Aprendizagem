@@ -13,13 +13,22 @@
 
 ---
 
+## 📜 Licença
+Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usar os slides para fins pessoais ou educacionais. Consulte o arquivo LICENSE para mais detalhes.
+
+## 🌟 Agradecimentos
+Agradecemos a todos os contribuidores que ajudaram a construir esta coleção de slides. Seu esforço e dedicação são muito apreciados!
+
+## 📧 Contato
+Se você tiver dúvidas, sugestões ou quiser se conectar, entre em contato conosco através do GitHub Issues ou envie um e-mail para giovanafernanda930@exemplo.com
+
 <br>
 
 Se você se interessou, sinta-se à vontade para **participar da nossa discussão neste repositório.** Estamos ansiosos para ouvir suas ideias e colaborar no desenvolvimento desta iniciativa.
 
-👉🏻Fique à vontade para **Contribuir** novas Documentações.<br>
 
-🔍Se você encontrou um bug ou tem uma sugestão de melhoria, por favor, abra um **ISSUE** em nosso repositório. 
+🚀 Contribua, aprenda e compartilhe conhecimento com a comunidade! 
 
-> Gostou do repositório? Marque uma ⭐ para salvar e receber mais aprendizagens!
+
+
 
