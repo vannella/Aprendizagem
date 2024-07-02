@@ -13,9 +13,6 @@
 
 ---
 
-## 📜 Licença
-Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usar os slides para fins pessoais ou educacionais. Consulte o arquivo LICENSE para mais detalhes.
-
 ## 🌟 Agradecimentos
 Agradecemos a todos os contribuidores que ajudaram a construir esta coleção de slides. Seu esforço e dedicação são muito apreciados!
 
