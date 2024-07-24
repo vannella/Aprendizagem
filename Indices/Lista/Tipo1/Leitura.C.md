@@ -57,12 +57,21 @@ struct No {
 **Desvantagens:** Pode ser mais complicada de implementar, e há risco de loops infinitos se não for manipulada corretamente.<br>
 
 ~~~ C
-struct No {
-    int num;
-    struct No* prox;
-};
-
-// Na inicialização, garantir que o último nó aponte para o primeiro
+/* procedimento para inserir no início */
+void inserir_no_inicio(Lista* lista, int num) {
+    No* novo = malloc(sizeof(No));
+    if (novo) {
+        novo->valor = num;
+        novo->proximo = lista->inicio;
+        lista->inicio = novo;
+        if (lista->fim == NULL)
+            lista->fim = novo;
+        lista->fim->proximo = lista->inicio;
+        lista->tam++;
+    } else {
+        printf("Erro ao alocar memória!\n");
+    }
+}
 
 ~~~~
 
