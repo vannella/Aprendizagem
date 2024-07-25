@@ -57,21 +57,24 @@ struct No {
 **Desvantagens:** Pode ser mais complicada de implementar, e há risco de loops infinitos se não for manipulada corretamente.<br>
 
 ~~~ C
-/* procedimento para inserir no início */
-void inserir_no_inicio(Lista* lista, int num) {
-    No* novo = malloc(sizeof(No));
-    if (novo) {
-        novo->valor = num;
-        novo->proximo = lista->inicio;
-        lista->inicio = novo;
-        if (lista->fim == NULL)
-            lista->fim = novo;
-        lista->fim->proximo = lista->inicio;
-        lista->tam++;
-    } else {
-        printf("Erro ao alocar memória!\n");
-    }
-}
+struct No {
+    int num;
+    struct No* prox;
+    struct No* ant;
+};
+
+// Exemplo de inicialização circular
+struct No* primeiro = (struct No*)malloc(sizeof(struct No));
+struct No* segundo = (struct No*)malloc(sizeof(struct No));
+
+primeiro->num = 1;
+segundo->num = 2;
+
+primeiro->prox = segundo;
+primeiro->ant = segundo;
+
+segundo->prox = primeiro;
+segundo->ant = primeiro;
 
 ~~~~
 
