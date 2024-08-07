@@ -17,7 +17,7 @@
 Agradecemos a todos os contribuidores que ajudaram a construir esta coleção de slides. Seu esforço e dedicação são muito apreciados!
 
 ## 📧 Sugestão
-Se você tiver dúvidas, sugestões ou quiser se conectar, entre em contato conosco através do GitHub Issues.
+Se você tiver dúvidas, sugestões ou quiser se conectar, entre em contato através da **Discurssão** ou inicie uma **Issue**.
 
 <br>
 
