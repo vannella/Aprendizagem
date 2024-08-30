@@ -36,16 +36,6 @@
 
 <br>
 
-**📝 Integrantes apresentando os Design Patterns** <br>
-* Giovana Fernanda : <mark>Singleton</mark><br>
-* Kaylane Sophia: <mark>Fachada</mark><br>
-* Keila Jadiely: <mark>Introdução Design Pattern</mark>  <br>
-* Miqueias Furtado: <mark>Adaptador</mark>  <br>
-* Thiago Andre: <mark>Fábrica</mark> <br>
-* Vinicius Lee: <mark>Proxy </mark> <br>
-
-<br>
-
 <div align="center">
 <h5>Feito por Vana💜</h5>
  <a href="https://github.com/Vannella">
