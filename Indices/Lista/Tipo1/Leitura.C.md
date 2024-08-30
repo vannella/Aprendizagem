@@ -92,13 +92,6 @@ Entender esses tipos de listas é crucial para desenvolver plataformas como o Sp
 
 <br>
 
-|   **📝 Leitura/Escrita**         |    💻 **Código**          |                              
-|--------------------------|----------------------------|
-|    Giovana Fernanda      |   Kaylane Sophia           | 
-|    Tiago Da Silva        |   Thiago André             | 
-|    Keila Jadiely         |   Miqueias Furtado         | 
-
-<br>
 
 <div align="center">
 <h5>Feito por Vana💜</h5>
