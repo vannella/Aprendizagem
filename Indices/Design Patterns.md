@@ -2,7 +2,7 @@
  <h1>Design Patterns</h1>
 </div>
 
-👉🏻Veja aqui o slide sobre os [Padrões de Projeto](https://drive.google.com/file/d/1-cDTGTDLXkDG4DqMpb6bblBi3eHkGAJm/view?usp=sharing)<br>
+👉🏻Veja aqui o slide sobre os [Padrões de Projeto](https://drive.google.com/file/d/17AlB3lr_zVd8mKRnucSrWtRFDt7O1V6O/view?usp=sharing)<br>
 
 <br>
 
