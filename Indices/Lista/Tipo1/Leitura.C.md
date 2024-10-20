@@ -6,7 +6,7 @@
 
 Todas as referências e leituras sobre os tipos de listas estão neste livro: *Estruturas_de_Dados_-_Algoritmos_Anlise_de_Complexidade_em_Java_e_C_C_Ana_F*
 
-👉🏻 Veja aqui o [Slide - PDF](https://drive.google.com/file/d/13MPjl0GeVP3AaXBosU6h6-Of49bBiw2t/view?usp=sharing)<br>
+👉🏻 Veja aqui o [Slide - PDF](https://drive.google.com/file/d/1-cDTGTDLXkDG4DqMpb6bblBi3eHkGAJm/view?usp=sharing)<br>
 
 👾 Veja aqui o [Código em C](https://github.com/vannella/Aprendizagem/blob/main/Indices/Lista/Tipo1/main.c)<br>
 
