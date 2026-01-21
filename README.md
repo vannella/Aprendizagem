@@ -6,7 +6,7 @@
 ### **📚 Indíce**<br>
 * [Lista](https://github.com/vannella/Aprendizagem/blob/main/Indices/Lista/Tipo1/Leitura.C.md)<br>
 * [Design Patterns](https://github.com/vannella/Aprendizagem/blob/main/Indices/Design%20Patterns.md)<br>
-* [Decision Support System](https://github.com/vannella/AnaliseRotatividade/blob/main/rotatividade2.ipynb))<br>
+* [Decision Support System](https://github.com/vannella/AnaliseRotatividade/blob/main/rotatividade2.ipynb)<br>
 
 <br>
 <br>
